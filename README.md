@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kayke, tenho 19 anos e sou do Rio de Janeiro. Estou iniciando meus estudos na área de programação, o que tem se mostrado uma descoberta incrível.
+Me chamo Kayke, tenho 19 anos e sou do Rio de Janeiro. Estou iniciando meus estudos na área de programação, o que tem se mostrado uma descoberta incrível. Atualmente, estou cursando Engenharia de Software na UniInter.
 
 ---
 
